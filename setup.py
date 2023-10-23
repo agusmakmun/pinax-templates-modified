@@ -76,7 +76,7 @@ setup(
     author="Pinax Team",
     author_email="team@pinaxprojects.com",
     description="semantic templates for pinax apps",
-    name="pinax-templates",
+    name="pinax-templates-modified",
     long_description=LONG_DESCRIPTION,
     version=VERSION,
     url="http://github.com/pinax/pinax-templates/",
